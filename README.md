@@ -20,6 +20,21 @@ This project is an **Online Learning System** built using **PHP** and **MySQL**.
 - **XAMPP** for local PHP and MySQL environment
 - **MySQL** for the database
 - Basic understanding of PHP, HTML, and SQL
+
+## repo structure
+- LearnWell-AI/
+- │── Admin/
+- │── Instructor/
+- │── Student/
+- │── Assets/
+- │── Utils/
+- │── screenshots/
+- │── database/
+- │   └── schema.sql
+- │── README.md
+- │── .gitignore
+
+
   
 ##  ADMIN
 - Username: admin
